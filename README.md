@@ -3,7 +3,7 @@
 🧠 Software developer passionate about coding, automation, and best practices  
 🔐 Currently exploring cybersecurity and QA/automation techniques  
 🌌 I enjoy building web apps and learning new frameworks  
-☕ Coffee enthusiast ☕
+☕ Coffee enthusiast ☕<br/>
 🚀 Check out my projects and resources on my [GitHub](https://github.com/DavEsp2406)<br/>
 
 # Tech Stack
