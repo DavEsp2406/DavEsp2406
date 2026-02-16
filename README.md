@@ -1,10 +1,9 @@
 ## Hi, I'm David ​✨🖤​
 
 🧠 Software developer passionate about coding, automation, and best practices  
-🔐 Currently exploring cybersecurity and QA/automation techniques  
-🌌 I enjoy building web apps and learning new frameworks  
+🔐 Currently exploring cybersecurity as an analyst    
+⚙️ I like automating things and understanding how systems really work  
 ☕ Coffee enthusiast ☕<br/>
-🚀 Check out my projects and resources on my [GitHub](https://github.com/DavEsp2406)<br/>
 
 # Tech Stack
 <div align="center">
